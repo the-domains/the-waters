@@ -1,14 +1,28 @@
-layout_spectrum: 1
-typography_spectrum: 0.3324382
-color:
-  saturation: 0.5296201
-  lightness: 0.2902178
-  brandStrength: 1
-  brandColors:
-    - '#030403'
-    - '#FFF0E9'
-    - '#A36554'
-    - '#FF0D17'
-    - '#028791'
-  rhythmicContrast: 0.2395664
 name: The Waters
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.29819
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#020202'
+    - '#feefe8'
+    - '#565b3b'
+    - '#8f9ab8'
+    - '#fc0b14'
+  brandStrength: 0.5
+  lightness: 0.3125
+  saturation: 0.3125
+  rhythmicContrast: 0.5
+purpose: []
