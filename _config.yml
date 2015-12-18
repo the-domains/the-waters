@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.3324382
+color:
+  saturation: 0.5296201
+  lightness: 0.2902178
+  brandStrength: 1
+  brandColors:
+    - '#030403'
+    - '#FFF0E9'
+    - '#A36554'
+    - '#FF0D17'
+    - '#028791'
+  rhythmicContrast: 0.2395664
+name: The Waters
