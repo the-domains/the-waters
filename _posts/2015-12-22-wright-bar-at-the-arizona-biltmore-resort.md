@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-22T20:58:11.403Z'
-dateModified: '2015-12-22T20:57:07.862Z'
+datePublished: '2015-12-22T21:51:51.833Z'
+dateModified: '2015-12-22T21:51:16.170Z'
 author: []
 title: Wright Bar at the Arizona Biltmore Resort
 sourcePath: _posts/2015-12-22-wright-bar-at-the-arizona-biltmore-resort.md
