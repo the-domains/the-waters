@@ -1,13 +1,14 @@
 ---
-inFeed: false
-hasPage: true
+inFeed: true
+hasPage: false
 inNav: false
+isBasedOnUrl: 'http://waldorfastoria3.hilton.com/resources/media/wa/en_US/img/shared/carousel/main/WA_barng1_745x269_FitToBoxSmallDimension_Center.jpg'
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-22T21:51:51.833Z'
-dateModified: '2015-12-22T21:51:16.170Z'
+datePublished: '2015-12-22T21:56:33.074Z'
+dateModified: '2015-12-22T21:56:25.357Z'
 author: []
 title: Wright Bar at the Arizona Biltmore Resort
 sourcePath: _posts/2015-12-22-wright-bar-at-the-arizona-biltmore-resort.md
@@ -18,7 +19,6 @@ publisher:
   domain: waldorfastoria3.hilton.com
   url: null
   favicon: null
-url: wright-bar-at-the-arizona-biltmore-resort/index.html
 _context: 'http://schema.org'
 _type: Article
 
