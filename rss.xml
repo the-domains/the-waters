@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The Waters]]></title>
         <description><![CDATA[The Waters]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-waters/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Dec 2015 20:32:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 22 Dec 2015 20:35:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-waters/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome...]]></title>
+            <description><![CDATA[<article><h1>Welcome...</h1><p>...to the freshly redesigned website of The Waters! Please check back often for updates!</p></article>]]></description>
+            <link>https://thegrid.ai/the-waters/welcome/index.html</link>
+            <guid isPermaLink="false">d19d95d1-edcf-4b79-b03d-d7fa7e37d9f4</guid>
+            <pubDate>Tue, 22 Dec 2015 20:35:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Waters]]></title>
-            <description><![CDATA[<article><h1>The Waters</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c8ce531-bf80-4536-a842-fe5512be2814.jpg"></article>]]></description>
-            <link>undefinedthe-waters/index.html</link>
+            <description><![CDATA[<article><h1>The Waters</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/061f6ff8e26b0231e893a57ff46c0c33994bfd94.jpg"></article>]]></description>
+            <link>https://thegrid.ai/the-waters/the-waters/index.html</link>
             <guid isPermaLink="false">d6a13f6d-73e6-4f38-a619-f16b8544485e</guid>
             <pubDate>Tue, 22 Dec 2015 20:31:59 GMT</pubDate>
         </item>
