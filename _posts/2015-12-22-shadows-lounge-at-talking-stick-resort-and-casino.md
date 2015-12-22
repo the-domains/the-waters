@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-22T20:58:04.119Z'
-dateModified: '2015-12-22T20:56:48.312Z'
+datePublished: '2015-12-22T21:51:43.068Z'
+dateModified: '2015-12-22T21:51:25.753Z'
 author: []
 title: Shadows Lounge at Talking Stick Resort and Casino
 sourcePath: _posts/2015-12-22-shadows-lounge-at-talking-stick-resort-and-casino.md
