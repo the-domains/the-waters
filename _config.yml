@@ -1,6 +1,6 @@
 name: The Waters
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.51511
 typography_spectrum: 0.22953
 title: The Waters
 cta:
@@ -24,6 +24,6 @@ color:
     - '#bf654b'
   brandStrength: 0.5
   lightness: 0.5
-  saturation: 0
-  rhythmicContrast: 1
+  saturation: 0.75
+  rhythmicContrast: 0.5
 purpose: []
