@@ -1,7 +1,7 @@
 name: The Waters
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.29819
+typography_spectrum: 0.13401
 title: The Waters
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#020202'
-    - '#feefe8'
-    - '#565b3b'
-    - '#8f9ab8'
-    - '#fc0b14'
+    - '#010101'
+    - '#e0d8c3'
+    - '#283641'
+    - '#a7ac8e'
+    - '#bf654b'
   brandStrength: 0.5
-  lightness: 0.3125
-  saturation: 0.3125
-  rhythmicContrast: 0.5
+  lightness: 0.5
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
