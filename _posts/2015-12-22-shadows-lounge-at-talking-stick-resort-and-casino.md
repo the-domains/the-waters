@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-22T21:56:06.638Z'
-dateModified: '2015-12-22T21:56:02.157Z'
+datePublished: '2015-12-22T22:06:01.248Z'
+dateModified: '2015-12-22T22:05:54.668Z'
 author: []
 title: Shadows Lounge at Talking Stick Resort and Casino
 sourcePath: _posts/2015-12-22-shadows-lounge-at-talking-stick-resort-and-casino.md
@@ -30,4 +30,4 @@ Definitely our newest regular show, Shadows Lounge at Talking Stick Resort and C
 First and Third Saturdays, Every Month: 9pm-1am
 
 9800 E Indian Bend Rd, Scottsdale, AZ 85256
-![](http://www.talkingstickresort.com/uploadedImages/Image_Gallery/Shadows/tsr_1316.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1f567d29e0d987fb0db481aea88f3a159726049c.jpg)
