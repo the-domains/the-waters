@@ -1,24 +1,24 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'http://www.talkingstickresort.com/uploadedImages/Image_Gallery/Shadows/tsr_1316.jpg'
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-22T20:50:51.108Z'
-dateModified: '2015-12-22T20:50:40.419Z'
+datePublished: '2015-12-22T20:58:04.119Z'
+dateModified: '2015-12-22T20:56:48.312Z'
 author: []
 title: Shadows Lounge at Talking Stick Resort and Casino
+sourcePath: _posts/2015-12-22-shadows-lounge-at-talking-stick-resort-and-casino.md
+published: true
 authors: []
 publisher:
   name: talkingstickresort.com
   domain: www.talkingstickresort.com
   url: null
   favicon: null
-sourcePath: _posts/2015-12-22-shadows-lounge-at-talking-stick-resort-and-casino.md
-published: true
+url: shadows-lounge-at-talking-stick-resort-and-casino/index.html
 _context: 'http://schema.org'
 _type: Article
 
