@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Waters]]></title>
+        <description><![CDATA[The Waters]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 22 Dec 2015 20:32:07 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Waters]]></title>
+            <description><![CDATA[<article><h1>The Waters</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c8ce531-bf80-4536-a842-fe5512be2814.jpg"></article>]]></description>
+            <link>undefinedthe-waters/index.html</link>
+            <guid isPermaLink="false">d6a13f6d-73e6-4f38-a619-f16b8544485e</guid>
+            <pubDate>Tue, 22 Dec 2015 20:31:59 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
