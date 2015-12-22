@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-22T21:56:33.074Z'
-dateModified: '2015-12-22T21:56:25.357Z'
+datePublished: '2015-12-22T22:06:31.601Z'
+dateModified: '2015-12-22T22:06:27.037Z'
 author: []
 title: Wright Bar at the Arizona Biltmore Resort
 sourcePath: _posts/2015-12-22-wright-bar-at-the-arizona-biltmore-resort.md
@@ -30,4 +30,4 @@ We are happy to be returning to one of our favorite venues, The Wright Bar at th
 Please join us there on Friday's: January 8th, 15th and 29th from 8-11pm.
 
 2400 E Missouri Ave, Phoenix, AZ 85016
-![](http://waldorfastoria3.hilton.com/resources/media/wa/en_US/img/shared/carousel/main/WA_barng1_745x269_FitToBoxSmallDimension_Center.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1c0ea5469d65b0f60f1c6bf8a49b0abb0580fa8c.jpg)
